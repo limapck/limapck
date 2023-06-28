@@ -1,10 +1,4 @@
-<html>
 
-<head>
-<meta http-equiv="Content-Language" content="pt-br">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Nova pagina 2</title>
-</head>
 
 <body>
 
@@ -28,6 +22,13 @@
 <p><a href="https://www.itsegdistribuidora.com">
 <img border="0" src="png-transparent-logo-graphic-design-art-online-shop.png" width="187" height="85"></a></p>
 <p>&nbsp;</p>
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Nova pagina 2</title>
+</head>
 <p><img border="0" src="iTseg%20Delivery.png" width="187" height="186"></p>
 
 </body>
